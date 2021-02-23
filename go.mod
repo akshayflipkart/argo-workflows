@@ -1,4 +1,4 @@
-module github.com/argoproj/argo-workflows/v3
+module github.com/akshayflipkart/argo-workflows/v3
 
 go 1.15
 
